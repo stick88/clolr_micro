@@ -74,8 +74,8 @@ namespace envirobit {
     /**
      * Get the amount of red the colour sensor sees
      */
-    //% blockId=envirobit_get_light_red
-    //% block="Get red"
+    //% blockId=envirobit_get_light_color
+    //% block="Get color"
     //% subcategory="Colour & Light"
     export function getcolor(): number {
 
