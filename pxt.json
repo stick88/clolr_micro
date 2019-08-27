@@ -1,0 +1,17 @@
+{
+    "name": "envirobit",
+    "version": "0.0.5",
+    "description": "Pimoroni Enviro:Bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "envirobit.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
